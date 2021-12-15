@@ -1,1 +1,1 @@
-# Naphat_Sirisubkulchai
+# This game project is developed for visually impaired.
