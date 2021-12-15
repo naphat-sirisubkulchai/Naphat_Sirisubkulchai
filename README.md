@@ -4,4 +4,4 @@
 2. install PIP
 3. install pygame
 
-[![Watch the video](https://img.youtube.com/vi/CZ3ARXgW6Q8)(https://youtu.be/CZ3ARXgW6Q8)
+![Alt Text](https://s10.gifyu.com/images/WiVN6jO---Imgur.gif)
